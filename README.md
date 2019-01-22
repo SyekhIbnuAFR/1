@@ -1,4 +1,4 @@
-#latihan1
+#LATIHAN 1
 
 TUGAS TUTORIAL MEMBUAT GITHUB
 
@@ -11,22 +11,14 @@ BAHASA PEMPROGRAMAN 1
 
 
 
-N I M//
-NAMA//
-KELAS//
-ANGKATAN//
-	
-:
-:
-:
-:
+N I M 		:311810628
 
-	
-311810628//
-SYEKH IBNU ACHMAD F.R//
-TI.18.A-3//
-2018/2019
+NAMA 		:SYEKH IBNU ACHMAD FAUZI RIDWAN
 
+KELAS 		:TI.18.A-3
+
+ANGKATAN 	:2018/2019
+	
      .
 Dikumpulkan hari  Rabu, 23 Januari 2019
 Dosen : Agung Nugroho, S.Kom.  -  agung@pelitabangsa.ac.id    
@@ -38,15 +30,16 @@ Dosen : Agung Nugroho, S.Kom.  -  agung@pelitabangsa.ac.id
 
 
 
-
 Tutorial Cara Penggunaan Github
 Ada beberapa langkah yang perlu dilakukan untuk menggunakan git yaitu :
+
 1. Membuat akun pada layanan github
 Buka website github, buat akun baru terlebih dahulu.
 
  
 Halaman utama github
 Setelah itu pada pojok kanan atas terdapat tombol “+”, klik button tersebut dan pilih “new repository”.
+
 2. Membuat Repositori online
  
 Tombol add
